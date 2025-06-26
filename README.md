@@ -1,0 +1,2 @@
+# InverseDynamics
+Inverse Dynamica Optimalisatie
